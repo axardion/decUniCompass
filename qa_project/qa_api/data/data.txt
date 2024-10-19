@@ -1,0 +1,466 @@
+это csv файл где написано минимальный балл на грант в определенный университет в определенный специальность.
+
+university_name,code,program,min_score,available_grants
+Al-Farabi Kazakh National University,B029,Audio-Visual Media and Media Production,118,48
+Al-Farabi Kazakh National University,B031,Fashion and Design,119,10
+Al-Farabi Kazakh National University,B032,Philosophy and Ethics,87,56
+Al-Farabi Kazakh National University,B033,Religion and Theology,117,9
+Al-Farabi Kazakh National University,B034,History,92,46
+Al-Farabi Kazakh National University,B036,Translation Studies,114,32
+Al-Farabi Kazakh National University,B037,Philology,88,125
+Al-Farabi Kazakh National University,B038,Sociology,99,15
+Al-Farabi Kazakh National University,B039,Cultural Studies,111,16
+Al-Farabi Kazakh National University,B040,Political Science,114,28
+Al-Farabi Kazakh National University,B041,Psychology,96,54
+Al-Farabi Kazakh National University,B042,Journalism and Reporting,120,30
+Al-Farabi Kazakh National University,B043,Library Science Information Processing and Archiving,101,42
+Al-Farabi Kazakh National University,B044,Management and Administration,72,22
+Al-Farabi Kazakh National University,B045,Audit and Taxation,114,11
+Al-Farabi Kazakh National University,B046,Finance Economics Banking and Insurance,113,25
+Al-Farabi Kazakh National University,B047,Marketing and Advertising,111,1
+Al-Farabi Kazakh National University,B049,Law,114,34
+Al-Farabi Kazakh National University,B050,Biological and Related Sciences,78,319
+Al-Farabi Kazakh National University,B051,Environmental Science,70,59
+Al-Farabi Kazakh National University,B052,Earth Science,75,237
+Al-Farabi Kazakh National University,B053,Chemistry,80,176
+Al-Farabi Kazakh National University,B054,Physics,70,302
+Al-Farabi Kazakh National University,B055,Mathematics and Statistics,96,401
+Al-Farabi Kazakh National University,B056,Mechanics,70,73
+Al-Farabi Kazakh National University,B057,Information Technology,86,144
+Al-Farabi Kazakh National University,B058,Information Security,85,48
+Al-Farabi Kazakh National University,B059,Communications and Communication Technology,70,146
+Al-Farabi Kazakh National University,B060,Chemical Engineering and Processes,70,24
+Al-Farabi Kazakh National University,B061,Materials Science and Technology,70,7
+Al-Farabi Kazakh National University,B062,Electrical Engineering and Power Engineering,68,136
+Al-Farabi Kazakh National University,B063,Electrical Engineering and Automation,65,268
+Al-Farabi Kazakh National University,B067,Air Transport and Technologies,79,12
+Al-Farabi Kazakh National University,B068,Food Production,80,12
+Al-Farabi Kazakh National University,B072,Pharmaceutical Production Technology,67,77
+Al-Farabi Kazakh National University,B074,Urban Planning Construction and Civil Engineering,77,84
+Al-Farabi Kazakh National University,B075,Cadastre and Land Management,67,243
+Al-Farabi Kazakh National University,B076,Standardization Certification and Metrology (by industries),70,102
+Al-Farabi Kazakh National University,B080,Fisheries,73,3
+Al-Farabi Kazakh National University,B090,Social Work,80,24
+Al-Farabi Kazakh National University,B091,Tourism,99,38
+Al-Farabi Kazakh National University,B093,Restaurant and Hotel Business,99,17
+Al-Farabi Kazakh National University,B094,Sanitary and Preventive Measures,71,23
+Al-Farabi Kazakh National University,B095,Transport Services,108,51
+Al-Farabi Kazakh National University,B140,International Relations and Diplomacy,105,15
+Narxoz University,B038,Sociology,102,61
+Narxoz University,B040,Political Science,114,25
+Narxoz University,B041,Psychology,70,46
+Narxoz University,B044,Management and Administration,72,48
+Narxoz University,B045,Audit and Taxation,106,20
+Narxoz University,B046,Finance Economics Banking and Insurance,108,66
+Narxoz University,B047,Marketing and Advertising,105,36
+Narxoz University,B048,Work Skills,104,29
+Narxoz University,B049,Law,78,9
+Narxoz University,B051,Environmental Science,70,123
+Narxoz University,B055,Mathematics and Statistics,71,172
+Narxoz University,B057,Information Technology,70,329
+Narxoz University,B058,Information Security,60,1157
+Narxoz University,B090,Social Work,74,47
+Narxoz University,B091,Tourism,100,85
+Narxoz University,B093,Restaurant and Hotel Business,99,73
+Narxoz University,B140,International Relations and Diplomacy,115,5
+Satbayev University,B046,Finance Economics Banking and Insurance,114,4
+Satbayev University,B050,Biological and Related Sciences,67,18
+Satbayev University,B051,Environmental Science,65,41
+Satbayev University,B052,Earth Science,71,145
+Satbayev University,B057,Information Technology,65,51
+Satbayev University,B058,Information Security,65,585
+Satbayev University,B059,Communications and Communication Technology,65,99
+Satbayev University,B060,Chemical Engineering and Processes,65,13
+Satbayev University,B061,Materials Science and Technology,82,6
+Satbayev University,B062,Electrical Engineering and Power Engineering,65,179
+Satbayev University,B063,Electrical Engineering and Automation,65,257
+Satbayev University,B064,Mechanics and Metal Processing,65,104
+Satbayev University,B067,Air Transport and Technologies,75,11
+Satbayev University,B069,Material Production (Glass Paper Plastic Wood),66,2
+Satbayev University,B071,Mining and Mineral Extraction,65,146
+Satbayev University,B072,Pharmaceutical Production Technology,65,167
+Satbayev University,B073,Architecture,65,113
+Satbayev University,B074,Urban Planning Construction and Civil Engineering,65,279
+Satbayev University,B075,Cadastre and Land Management,65,262
+Satbayev University,B076,Standardization Certification and Metrology (by industries),65,48
+Satbayev University,B082,Water Resources and Water Use,65,6
+Satbayev University,B094,Sanitary and Preventive Measures,67,24
+Satbayev University,B095,Transport Services,105,11
+Satbayev University,B165,Main Networks and Infrastructure,65,6
+Satbayev University,B166,Transport Structures,74,3
+Auezov South Kazakhstan University,B002,Preschool Education,75,8
+Auezov South Kazakhstan University,B003,Primary Education Methods,98,5
+Auezov South Kazakhstan University,B005,Physical Education Teacher Training,117,23
+Auezov South Kazakhstan University,B009,Mathematics Teacher Training,84,4
+Auezov South Kazakhstan University,B010,Physics Teacher Training,76,5
+Auezov South Kazakhstan University,B011,Computer Science Teacher Training,83,6
+Auezov South Kazakhstan University,B012,Chemistry Teacher Training,85,1
+Auezov South Kazakhstan University,B013,Biology Teacher Training,75,10
+Auezov South Kazakhstan University,B014,Geography Teacher Training,87,5
+Auezov South Kazakhstan University,B017,Russian Language and Literature Teacher Training,105,2
+Auezov South Kazakhstan University,B018,Foreign Language Teacher Training,111,5
+Auezov South Kazakhstan University,B020,Special Education,78,4
+Auezov South Kazakhstan University,B027,Theater Arts,90,8
+Auezov South Kazakhstan University,B028,Choreography,117,7
+Auezov South Kazakhstan University,B030,Fine Arts,113,11
+Auezov South Kazakhstan University,B031,Fashion Design,119,20
+Auezov South Kazakhstan University,B032,Philosophy and Ethics,89,4
+Auezov South Kazakhstan University,B034,History,70,4
+Auezov South Kazakhstan University,B036,Translation Studies,58,1
+Auezov South Kazakhstan University,B037,Philology,59,3
+Auezov South Kazakhstan University,B040,Political Science,114,1
+Auezov South Kazakhstan University,B041,Psychology,104,2
+Auezov South Kazakhstan University,B042,Journalism,108,5
+Auezov South Kazakhstan University,B043,Library Science and Archiving,104,2
+Auezov South Kazakhstan University,B044,Management and Administration,128,1
+Auezov South Kazakhstan University,B045,Audit and Taxation,116,2
+Auezov South Kazakhstan University,B046,Finance Economics Banking and Insurance,108,1
+Auezov South Kazakhstan University,B057,Information Technology,60,38
+Auezov South Kazakhstan University,B059,Communications and Communication Technology,69,32
+Auezov South Kazakhstan University,B069,Material Production (Glass Paper Plastic Wood),50,5
+Auezov South Kazakhstan University,B071,Mining and Mineral Extraction,50,81
+Auezov South Kazakhstan University,B072,Pharmaceutical Production Technology,58,44
+Auezov South Kazakhstan University,B073,Architecture,59,462
+Auezov South Kazakhstan University,B074,Urban Planning Construction and Civil Engineering,52,183
+Auezov South Kazakhstan University,B075,Cadastre and Land Management,50,93
+Auezov South Kazakhstan University,B076,Standardization Certification and Metrology (by industries),67,20
+Auezov South Kazakhstan University,B077,Plant Science,51,24
+Auezov South Kazakhstan University,B078,Animal Science,50,2
+Auezov South Kazakhstan University,B082,Water Resources and Water Use,50,17
+Auezov South Kazakhstan University,B083,Veterinary Medicine,50,60
+Auezov South Kazakhstan University,B090,Social Work,72,22
+Auezov South Kazakhstan University,B091,Tourism,99,3
+Auezov South Kazakhstan University,B092,Leisure,115,39
+Auezov South Kazakhstan University,B093,Restaurant and Hotel Business,103,1
+Auezov South Kazakhstan University,B094,Sanitary and Preventive Measures,67,15
+Auezov South Kazakhstan University,B134,Archaeology and Ethnology,57,1
+Auezov South Kazakhstan University,B183,Agroengineering,52,10
+Abai Kazakh National Pedagogical University,B001,Pedagogy and Psychology,82,18
+Abai Kazakh National Pedagogical University,B002,Preschool Education,75,77
+Abai Kazakh National Pedagogical University,B003,Primary Education Methods,84,54
+Abai Kazakh National Pedagogical University,B005,Physical Education Teacher Training,116,47
+Abai Kazakh National Pedagogical University,B006,Music Teacher Training,118,5
+Abai Kazakh National Pedagogical University,B009,Mathematics Teacher Training,75,62
+Abai Kazakh National Pedagogical University,B010,Physics Teacher Training,80,69
+Abai Kazakh National Pedagogical University,B011,Computer Science Teacher Training,75,53
+Abai Kazakh National Pedagogical University,B012,Chemistry Teacher Training,75,99
+Abai Kazakh National Pedagogical University,B013,Biology Teacher Training,75,144
+Abai Kazakh National Pedagogical University,B014,Geography Teacher Training,83,100
+Abai Kazakh National Pedagogical University,B015,Humanities Teacher Training,103,84
+Abai Kazakh National Pedagogical University,B016,Kazakh Language and Literature Teacher Training,118,56
+Abai Kazakh National Pedagogical University,B017,Russian Language and Literature Teacher Training,75,66
+Abai Kazakh National Pedagogical University,B018,Foreign Language Teacher Training,109,63
+Abai Kazakh National Pedagogical University,B019,Social Pedagogy,75,23
+Abai Kazakh National Pedagogical University,B020,Special Education,75,80
+Abai Kazakh National Pedagogical University,B028,Choreography,117,3
+Abai Kazakh National Pedagogical University,B029,Audio-Visual Media and Production,118,1
+Abai Kazakh National Pedagogical University,B030,Fine Arts,114,18
+Abai Kazakh National Pedagogical University,B031,Fashion Design,101,16
+Abai Kazakh National Pedagogical University,B032,Philosophy and Ethics,87,17
+Abai Kazakh National Pedagogical University,B033,Religion and Theology,117,12
+Abai Kazakh National Pedagogical University,B034,History,67,4
+Abai Kazakh National Pedagogical University,B036,Translation Studies,33,6
+Abai Kazakh National Pedagogical University,B037,Philology,112,4
+Abai Kazakh National Pedagogical University,B038,Sociology,101,1
+Abai Kazakh National Pedagogical University,B039,Cultural Studies,71,3
+Abai Kazakh National Pedagogical University,B040,Political Science,116,1
+Abai Kazakh National Pedagogical University,B041,Psychology,98,5
+Abai Kazakh National Pedagogical University,B046,Finance Economics Banking and Insurance,113,1
+Abai Kazakh National Pedagogical University,B047,Marketing and Advertising,106,1
+Abai Kazakh National Pedagogical University,B050,Biological and Related Sciences,71,55
+Abai Kazakh National Pedagogical University,B051,Environmental Science,65,28
+Abai Kazakh National Pedagogical University,B052,Earth Science,71,89
+Abai Kazakh National Pedagogical University,B053,Chemistry,65,274
+Abai Kazakh National Pedagogical University,B054,Physics,69,203
+Abai Kazakh National Pedagogical University,B055,Mathematics and Statistics,67,92
+Abai Kazakh National Pedagogical University,B140,International Relations and Diplomacy,119,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B006,Music Teacher Training,121,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B021,Performing Arts,116,5
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B027,Theater Arts,116,4
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B028,Choreography,118,1
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B031,Fashion Design,105,4
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B033,Religion and Theology,117,12
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B034,History,115,1
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B042,Journalism and Reporting,122,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B044,Management and Administration,122,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B046,Finance Economics Banking and Insurance,125,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B050,Biological and Related Sciences,63,17
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B051,Environmental Science,70,17
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B053,Chemistry,60,2
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B054,Physics,69,36
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B055,Mathematics and Statistics,65,16
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B057,Information Technology,61,10
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B062,Electrical Engineering and Power Engineering,60,23
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B063,Electrical Engineering and Automation,61,10
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B091,Tourism,108,1
+Khoja Akhmet Yassawi International Kazakh-Turkish University,B093,Restaurant and Hotel Business,101,4
+Almaty Technological University,B031,Fashion and Design,82,9
+Almaty Technological University,B050,Biological Sciences,61,23
+Almaty Technological University,B051,Environmental Science,70,31
+Almaty Technological University,B057,Information Technology,60,18
+Almaty Technological University,B060,Chemical Engineering and Processes,51,8
+Almaty Technological University,B063,Electrical Engineering and Automation,52,139
+Almaty Technological University,B064,Mechanics and Metalworking,50,120
+Almaty Technological University,B068,Food Production,50,672
+Almaty Technological University,B070,Clothing: Footwear and Leather Products,50,92
+Almaty Technological University,B076,Standardization Certification and Metrology,52,37
+Almaty Technological University,B091,Tourism,114,1
+Almaty Technological University,B093,Restaurant and Hotel Business,99,5
+Karaganda State Technical University,B057,Information Technology,60,31
+Karaganda State Technical University,B058,Information Security,50,413
+Karaganda State Technical University,B059,Communication and Communication Technologies,50,39
+Karaganda State Technical University,B094,Sanitary and Preventive Measures,67,8
+Karaganda State Technical University,B095,Transport Services,108,3
+Karaganda Buketov University,B030,Fine Arts,114,7
+Karaganda Buketov University,B031,Fashion and Design,122,1
+Karaganda Buketov University,B032,Philosophy and Ethics,89,5
+Karaganda Buketov University,B033,Religion and Theology,117,6
+Karaganda Buketov University,B034,History,70,5
+Karaganda Buketov University,B036,Translation Studies,58,3
+Karaganda Buketov University,B037,Philology,93,5
+Karaganda Buketov University,B038,Sociology,104,3
+Karaganda Buketov University,B041,Psychology,97,5
+Karaganda Buketov University,B042,Journalism and Reporting,97,8
+Karaganda Buketov University,B045,Audit and Taxation,110,1
+Karaganda Buketov University,B046,Finance Economics Banking and Insurance,107,1
+Karaganda Buketov University,B047,Marketing and Advertising,106,2
+Karaganda Buketov University,B049,Law,125,1
+Karaganda Buketov University,B050,Biological and Related Sciences,67,14
+Karaganda Buketov University,B051,Environmental Science,59,46
+Karaganda Buketov University,B052,Earth Science,71,23
+Karaganda Buketov University,B053,Chemistry,57,78
+Karaganda Buketov University,B054,Physics,62,31
+Karaganda Buketov University,B055,Mathematics and Statistics,66,11
+Karaganda Buketov University,B056,Mechanics,56,14
+Karaganda Buketov University,B057,Information Technology,61,14
+Karaganda Buketov University,B059,Communication and Communication Technologies,55,14
+Karaganda Buketov University,B060,Chemical Engineering and Processes,76,2
+Karaganda Buketov University,B062,Electrical Engineering and Power Engineering,60,15
+Karaganda Buketov University,B063,Electrical Engineering and Automation,57,12
+Karaganda Buketov University,B064,Mechanics and Metalworking,55,23
+Karaganda Buketov University,B072,Pharmaceutical Production Technology,60,190
+Karaganda Buketov University,B090,Social Work,73,17
+Karaganda Buketov University,B091,Tourism,106,1
+Karaganda Buketov University,B092,Leisure,116,4
+Karaganda Buketov University,B093,Restaurant and Hotel Business,102,4
+Karaganda Buketov University,B094,Sanitary and Preventive Measures,67,12
+Karaganda Buketov University,B095,Transport Services,58,4
+Karaganda Buketov University,B140,International Relations and Diplomacy,73,2
+D. Serikbayev East Kazakhstan Technical University,B046,Finance Economics Banking and Insurance,109,1
+D. Serikbayev East Kazakhstan Technical University,B057,Information Technology,50,49
+D. Serikbayev East Kazakhstan Technical University,B059,Communication and Communication Technologies,51,13
+D. Serikbayev East Kazakhstan Technical University,B079,Forestry,50,45
+D. Serikbayev East Kazakhstan Technical University,B082,Water Resources and Management,51,7
+D. Serikbayev East Kazakhstan Technical University,B094,Sanitary and Preventive Measures,67,18
+D. Serikbayev East Kazakhstan Technical University,B095,Transport Services,110,2
+D. Serikbayev East Kazakhstan Technical University,B166,Transport Structures,52,8
+Asfendiyarov Kazakh National Medical University,B072,Pharmaceutical Production Technology,75,596
+Kazakh Ablai Khan University of International Relations and World Languages,B018,Teacher Training in Foreign Languages,109,72
+Kazakh Ablai Khan University of International Relations and World Languages,B034,History,113,3
+Kazakh Ablai Khan University of International Relations and World Languages,B036,Translation Studies,114,13
+Kazakh Ablai Khan University of International Relations and World Languages,B037,Philology,112,7
+Kazakh Ablai Khan University of International Relations and World Languages,B042,Journalism and Reporting,122,2
+Kazakh Ablai Khan University of International Relations and World Languages,B049,Law,125,1
+Kazakh Ablai Khan University of International Relations and World Languages,B091,Tourism,107,4
+Kazakh Ablai Khan University of International Relations and World Languages,B093,Restaurant and Hotel Business,103,1
+Kazakh Ablai Khan University of International Relations and World Languages,B140,International Relations and Diplomacy,115,2
+Kazakh-British Technical University,B044,Management and Administration,106,47
+Kazakh-British Technical University,B045,Audit and Taxation,114,14
+Kazakh-British Technical University,B046,Finance Economics Banking and Insurance,107,93
+Kazakh-British Technical University,B047,Marketing and Advertising,105,30
+Kazakh-British Technical University,B057,Information Technology,100,718
+Kazakh-British Technical University,B060,Chemical Engineering and Processes,71,54
+Kazakh-British Technical University,B061,Materials Science and Technology,70,56
+Kazakh-British Technical University,B063,Electrical Engineering and Automation,100,330
+Kazakh-British Technical University,B066,Marine Transport and Technologies,72,33
+Kazakh-British Technical University,B071,Mining and Mineral Extraction,70,217
+Karaganda University of Kazpotrebsoyuz,B044,Management and Administration,122,1
+Karaganda University of Kazpotrebsoyuz,B051,Environment,72,8
+Karaganda University of Kazpotrebsoyuz,B057,Information Technology,61,8
+Karaganda University of Kazpotrebsoyuz,B068,Food Production,51,47
+Karaganda University of Kazpotrebsoyuz,B076,Standardization, Certification, and Metrology,52,11
+Karaganda University of Kazpotrebsoyuz,B093,Restaurant and Hospitality Business,100,2
+Kazakh National WomenвЂ™s Teacher Training University,B001,Pedagogy and Psychology,75,15
+Kazakh National WomenвЂ™s Teacher Training University,B002,Preschool Education and Training,75,148
+Kazakh National WomenвЂ™s Teacher Training University,B003,Primary Education Teaching Methodology,90,63
+Kazakh National WomenвЂ™s Teacher Training University,B005,Physical Education Teacher Training,114,8
+Kazakh National WomenвЂ™s Teacher Training University,B006,Music Teacher Training,102,12
+Kazakh National WomenвЂ™s Teacher Training University,B009,Mathematics Teacher Training,84,19
+Kazakh National WomenвЂ™s Teacher Training University,B010,Physics Teacher Training,80,34
+Kazakh National WomenвЂ™s Teacher Training University,B011,Computer Science Teacher Training,78,33
+Kazakh National WomenвЂ™s Teacher Training University,B012,Chemistry Teacher Training,76,43
+Kazakh National WomenвЂ™s Teacher Training University,B013,Biology Teacher Training,76,93
+Kazakh National WomenвЂ™s Teacher Training University,B014,Geography Teacher Training,84,60
+Kazakh National WomenвЂ™s Teacher Training University,B015,Humanities Teacher Training,104,17
+Kazakh National WomenвЂ™s Teacher Training University,B016,Kazakh Language and Literature Teacher Training,118,26
+Kazakh National WomenвЂ™s Teacher Training University,B017,Russian Language and Literature Teacher Training,75,51
+Kazakh National WomenвЂ™s Teacher Training University,B018,Foreign Language Teacher Training,109,23
+Kazakh National WomenвЂ™s Teacher Training University,B019,Social Pedagogy Training,75,42
+Kazakh National WomenвЂ™s Teacher Training University,B020,Special Pedagogy,75,103
+Kazakh National WomenвЂ™s Teacher Training University,B028,Choreography,117,16
+Kazakh National WomenвЂ™s Teacher Training University,B036,Translation Studies,71,1
+Kazakh National WomenвЂ™s Teacher Training University,B037,Philology,116,2
+Kazakh National WomenвЂ™s Teacher Training University,B038,Sociology,105,2
+Kazakh National WomenвЂ™s Teacher Training University,B041,Psychology,98,5
+Kazakh National WomenвЂ™s Teacher Training University,B043,Library Science, Information Processing, and Archival Science,70,24
+Kazakh National WomenвЂ™s Teacher Training University,B050,Biology and Related Sciences,65,84
+Kazakh National WomenвЂ™s Teacher Training University,B053,Chemistry,65,320
+Kazakh National WomenвЂ™s Teacher Training University,B054,Physics,69,226
+Kazakh National WomenвЂ™s Teacher Training University,B057,Information Technology,71,1
+Kazakh National WomenвЂ™s Teacher Training University,B090,Social Work,72,67
+Kazakh National WomenвЂ™s Teacher Training University,B091,Tourism,99,4
+Kazakh National WomenвЂ™s Teacher Training University,B092,Leisure,115,31
+Kokshetau State University,B005,Physical Education Teacher Training,119,4
+Kokshetau State University,B031,Fashion and Design,121,2
+Kokshetau State University,B036,Translation Studies,126,1
+Kokshetau State University,B037,Philology,51,2
+Kokshetau State University,B041,Psychology,102,2
+Kokshetau State University,B057,Information Technology,51,11
+Kokshetau State University,B071,Mining and Mineral Extraction,50,26
+Kokshetau State University,B094,Sanitary and Preventive Measures,68,4
+K. Zhubanov Aktobe Regional University,B020,Special Pedagogy,85,10
+K. Zhubanov Aktobe Regional University,B028,Choreography,117,3
+K. Zhubanov Aktobe Regional University,B031,Fashion and Design,78,6
+K. Zhubanov Aktobe Regional University,B034,History,100,1
+K. Zhubanov Aktobe Regional University,B036,Translation Studies,74,2
+K. Zhubanov Aktobe Regional University,B041,Psychology,56,5
+K. Zhubanov Aktobe Regional University,B049,Law,77,2
+K. Zhubanov Aktobe Regional University,B057,Information Technology,62,9
+K. Zhubanov Aktobe Regional University,B062,Electrical Engineering and Energy,50,100
+K. Zhubanov Aktobe Regional University,B073,Architecture,50,1
+K. Zhubanov Aktobe Regional University,B092,Leisure,116,6
+K. Zhubanov Aktobe Regional University,B095,Transport Services,112,1
+Margulan University,B005,Physical Education Teacher Training,117,7
+Margulan University,B006,Music Teacher Training,107,3
+Margulan University,B009,Mathematics Teacher Training,75,16
+Margulan University,B010,Physics Teacher Training,75,6
+Margulan University,B011,Computer Science Teacher Training,91,1
+Margulan University,B013,Biology Teacher Training,75,4
+Margulan University,B014,Geography Teacher Training,75,12
+Margulan University,B015,Humanities Teacher Training,75,3
+Margulan University,B016,Kazakh Language and Literature Teacher Training,75,14
+Margulan University,B018,Foreign Language Teacher Training,75,33
+Margulan University,B020,Special Pedagogy,76,1
+Civil Aviation Academy,B067,Air Transport and Technologies,70,209
+Civil Aviation Academy,B095,Transport Services,105,4
+Civil Aviation Academy,B167,Aircraft and Engine Operation,88,165
+Dulaty University,B006,Music Teacher Training,120,2
+Dulaty University,B028,Choreography,117,3
+Dulaty University,B031,Fashion and Design,119,9
+Dulaty University,B036,Translation Studies,117,1
+Dulaty University,B046,Finance, Economics, Banking, and Insurance,118,1
+Dulaty University,B050,Biology and Related Sciences,74,6
+Dulaty University,B051,Environment,63,13
+Dulaty University,B052,Earth Science,72,20
+Dulaty University,B054,Physics,71,19
+Dulaty University,B055,Mathematics and Statistics,60,9
+Dulaty University,B057,Information Technology,60,16
+Dulaty University,B059,Communication and Communication Technologies,69,9
+Dulaty University,B061,Materials Science and Technology,57,4
+Dulaty University,B062,Electrical Engineering and Energy,59,22
+Dulaty University,B063,Electrical Engineering and Automation,52,13
+Dulaty University,B064,Mechanics and Metalworking,51,27
+Dulaty University,B068,Food Production,53,62
+Dulaty University,B071,Mining and Mineral Extraction,50,28
+Dulaty University,B073,Architecture,58,119
+Dulaty University,B074,Urban Planning, Construction, and Civil Engineering,52,42
+Dulaty University,B075,Cadastre and Land Management,50,22
+Dulaty University,B076,Standardization, Certification, and Metrology,68,14
+Dulaty University,B077,Plant Science,50,14
+Dulaty University,B091,Tourism,108,1
+Dulaty University,B092,Leisure,115,16
+Dulaty University,B094,Sanitary and Preventive Measures,75,1
+Dulaty University,B095,Transport Services,110,2
+Dulaty University,B167,Aircraft and Engine Operation,50,16
+International Engineering and Technology University (METU),B044,Management and Administration,51,2
+International Engineering and Technology University (METU),B046,Finance, Economics, Banking, and Insurance,55,1
+International Engineering and Technology University (METU),B050,Biology and Related Sciences,67,7
+International Engineering and Technology University (METU),B057,Information Technology,60,14
+International Engineering and Technology University (METU),B059,Communication and Communication Technologies,50,10
+International Engineering and Technology University (METU),B062,Electrical Engineering and Energy,58,31
+International Engineering and Technology University (METU),B064,Mechanics and Metalworking,50,28
+International Engineering and Technology University (METU),B068,Food Production,52,107
+International Engineering and Technology University (METU),B076,Standardization, Certification, and Metrology,68,3
+International Engineering and Technology University (METU),B077,Plant Science,50,19
+International Engineering and Technology University (METU),B091,Tourism,118,1
+International IT University,B042,Journalism and Reporting,121,6
+International IT University,B057,Information Technology,83,436
+International IT University,B058,Information Security,80,402
+International IT University,B059,Communication and Communication Technologies,61,33
+Sarsen Amanzholov East Kazakhstan University,B006,Music Teacher Training,119,1
+Sarsen Amanzholov East Kazakhstan University,B033,Religion and Theology,117,4
+Sarsen Amanzholov East Kazakhstan University,B036,Translation Studies,66,1
+Sarsen Amanzholov East Kazakhstan University,B041,Psychology,58,3
+Sarsen Amanzholov East Kazakhstan University,B042,Journalism and Reporting,112,2
+Sarsen Amanzholov East Kazakhstan University,B046,Finance, Economics, Banking, and Insurance,117,2
+Sarsen Amanzholov East Kazakhstan University,B050,Biology and Related Sciences,63,7
+Sarsen Amanzholov East Kazakhstan University,B051,Environment,60,28
+Sarsen Amanzholov East Kazakhstan University,B052,Earth Science,72,20
+Sarsen Amanzholov East Kazakhstan University,B053,Chemistry,52,44
+Sarsen Amanzholov East Kazakhstan University,B054,Physics,71,16
+Sarsen Amanzholov East Kazakhstan University,B055,Mathematics and Statistics,76,3
+Sarsen Amanzholov East Kazakhstan University,B057,Information Technology,50,4
+Sarsen Amanzholov East Kazakhstan University,B068,Food Production,53,54
+Sarsen Amanzholov East Kazakhstan University,B079,Forestry,50,55
+Sarsen Amanzholov East Kazakhstan University,B094,Sanitary and Preventive Measures,67,9
+SDU University,B001,Pedagogy and Psychology,86,24
+SDU University,B003,Primary Education Methodology,99,9
+SDU University,B009,Mathematics Teacher Training,119,65
+SDU University,B010,Physics Teacher Training,96,67
+SDU University,B012,Chemistry Teacher Training,85,61
+SDU University,B014,Geography Teacher Training,84,13
+SDU University,B015,Humanities Teacher Training,104,25
+SDU University,B016,Kazakh Language and Literature Teacher Training,118,31
+SDU University,B018,Foreign Language Teacher Training,120,104
+SDU University,B019,Social Pedagogy Training,75,19
+SDU University,B036,Translation Studies,115,72
+SDU University,B037,Philology,64,8
+SDU University,B042,Journalism and Reporting,120,9
+SDU University,B044,Management and Administration,106,30
+SDU University,B045,Auditing and Taxation,106,10
+SDU University,B046,Finance, Economics, Banking, and Insurance,114,46
+SDU University,B047,Marketing and Advertising,106,21
+SDU University,B049,Law,78,10
+SDU University,B055,Mathematics and Statistics,97,236
+SDU University,B057,Information Technology,105,589
+SDU University,B140,International Relations and Diplomacy,81,22
+Toraighyrov University,B021,Performing Arts,115,4
+Toraighyrov University,B027,Theater Arts,116,4
+Toraighyrov University,B031,Fashion and Design,60,6
+Toraighyrov University,B036,Translation Studies,39,3
+Toraighyrov University,B037,Philology,60,3
+Toraighyrov University,B039,Cultural Studies,53,3
+Toraighyrov University,B041,Psychology,103,3
+Toraighyrov University,B042,Journalism and Reporting,121,1
+Toraighyrov University,B044,Management and Administration,120,2
+Toraighyrov University,B046,Finance, Economics, Banking, and Insurance,115,3
+Toraighyrov University,B047,Marketing and Advertising,114,1
+Toraighyrov University,B050,Biology and Related Sciences,82,6
+Toraighyrov University,B051,Environment,59,27
+Toraighyrov University,B052,Earth Science,72,24
+Toraighyrov University,B053,Chemistry,51,16
+Toraighyrov University,B054,Physics,70,10
+Toraighyrov University,B055,Mathematics and Statistics,105,2
+Toraighyrov University,B056,Mechanics,50,7
+Toraighyrov University,B057,Information Technology,51,44
+Toraighyrov University,B059,Communication and Communication Technologies,51,15
+Toraighyrov University,B073,Architecture,54,49
+Toraighyrov University,B074,Urban Planning, Construction, and Civil Engineering,52,50
+Toraighyrov University,B076,Standardization, Certification, and Metrology,59,11
+Toraighyrov University,B079,Forestry,52,66
+Toraighyrov University,B090,Social Work,74,5
+Toraighyrov University,B091,Tourism,68,3
+Toraighyrov University,B094,Sanitary and Preventive Measures,70,4
+Toraighyrov University,B095,Transport Services,67,1
+Turan-Astana University,B031,Fashion and Design,119,5
+Turan-Astana University,B057,Information Technology,60,15
+Turan-Astana University,B093,Restaurant and Hospitality Management,102,2
+Zhetysu University,B036,Translation Studies,119,1
+Zhetysu University,B051,Environment,71,8
+Zhetysu University,B057,Information Technology,60,9
+Zhetysu University,B076,Standardization, Certification, and Metrology,50,16
+Zhetysu University,B077,Crop Production,50,19
+Zhetysu University,B091,Tourism,121,1
+Zhetysu University,B093,Restaurant and Hospitality Management,62,1
+Zhetysu University,B094,Sanitary and Preventive Measures,56,15
+
